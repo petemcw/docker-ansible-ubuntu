@@ -1,4 +1,4 @@
-# Ubuntu 12.04 LTS (Precise) Ansible Test Image
+# Ubuntu 14.04 LTS (Trusty) Ansible Test Image
 
 **This image is not currently aimed at public consumption. It exists as an internal tool for testing [Ansible](http://www.ansibleworks.com/) development.**
 
