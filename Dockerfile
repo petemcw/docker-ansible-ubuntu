@@ -40,3 +40,5 @@ RUN \
 # ansible inventory file
 RUN \
     echo "[local]\nlocalhost ansible_connection=local" > /etc/ansible/hosts
+
+CMD ["/lib/systemd/systemd"]
